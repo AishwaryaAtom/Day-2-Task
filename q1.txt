@@ -1,0 +1,14 @@
+DIFFERENCE BETWEEN DOCUMENT AND WINDOWS:
+
+DOCUMENT:
+The document object represents the HTML document itself and provides methods and properties to interact with the content of the document.
+ You can manipulate the structure, style, and content of the webpage using the document object.
+
+WINDOWS:
+On the other hand, the window object represents the browser window and acts as the global object for JavaScript in the browser. 
+It contains properties and methods related to the browser itself, like the size of the window, navigation history, and the global scope.
+
+
+DIFFERENCE:
+In a nutshell, document focuses on the content within the browser window, while window deals with the browser itself and its overall environment. 
+They work together to enable dynamic and interactive web pages.
